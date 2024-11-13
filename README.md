@@ -29,14 +29,16 @@ React's huge ecosystem and easy syntax allow it to be simple for beginners to le
 
 ### Cross-Platform Mobile Apps (with React Native)
 
+## Who’s Using React?
+
+Top brands like Facebook, Instagram, Netflix, Airbnb, and Uber use React to power their user interfaces. Why? Because React brings reliability, speed, and scalability to the table.
 
 # Get Started Today!
 
 Become one of the millions of developers using React.js to create innovative online apps. You can realize your ideas using React, whether you're creating your first website or optimizing intricate projects.
 
+Start your journey with React.js today and create UIs that users love!
+For more information, visit reactjs.org
+
 ## React.js – Code Less, Do More!
-
-### Install React with:
-
-npx create-react-app my-app
 
